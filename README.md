@@ -33,5 +33,5 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <URL_репозитория>
-cd <имя_проекта>
+git clone https://github.com/yuriy0770/habits_prpject.git
+
